@@ -30,7 +30,33 @@ To perform the analysis properly, a new column, named Profit/Loss. Therefore, th
 
 ### IF Function
 
-This function has been used to classify the proift values as either profit for values greater than 0 or Loss for values less than 0 and stored in the Profit/Loss Variable.
+This function has been used to classify the profit values as either profit for values greater than 0 or Loss for values less than 0 and stored in the Profit/Loss Variable.
+
+### Pivot Tables
+
+Pivot tables have been used to create summary tables. This can also be filter.
+
+### Conditional Formatting
+
+All tables containing the the Profit Varible, conditional formatting has been applied. That is, all values greater than 0 have been highlighted in Green to present Profit and those less than 0 are highlighted in Red to present Loss.
+
+### Line Chart
+
+Line charts have been applied on Profits, Sales and CoGS over time to identify trends and pattern.
+
+## Results
+
+The screenshots below represents the results.
+
+![image](https://github.com/user-attachments/assets/649f0b24-b806-45cf-91b3-b1166f60125c)
 
 
+![image](https://github.com/user-attachments/assets/6a9d1795-9949-4ec7-aa66-3fc9776a440e)
 
+![image](https://github.com/user-attachments/assets/54ba5a2a-7ecf-40fe-904c-caf48b5c43fc)
+
+![image](https://github.com/user-attachments/assets/85aa76b1-a33f-4ed2-b4be-c2b0ed7c5bd7)
+
+![image](https://github.com/user-attachments/assets/ffbcec72-95f5-4d87-b85a-40a88e3fa57b)
+
+![image](https://github.com/user-attachments/assets/994b09f0-d14e-42b4-a0f8-98bbca35815e)
