@@ -48,6 +48,9 @@ Line charts have been applied on Profits, Sales and CoGS over time to identify t
 
 The screenshots below represents the results.
 
+![image](https://github.com/user-attachments/assets/1d2698ed-bd4d-48cc-bb7a-a43b6331a137)
+
+
 ![image](https://github.com/user-attachments/assets/649f0b24-b806-45cf-91b3-b1166f60125c)
 
 
