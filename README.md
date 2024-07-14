@@ -60,6 +60,14 @@ The screenshots below represents the results.
 ![image](https://github.com/user-attachments/assets/ffbcec72-95f5-4d87-b85a-40a88e3fa57b)
 
 
+![image](https://github.com/user-attachments/assets/994b09f0-d14e-42b4-a0f8-98bbca35815e)
+
+
+## Usage
+
+Navigate to WorkBook Folder in this repository and download the Superstore.xlsx workbook. Open it in MS Excel or any other compatible spreadsheet. Navigate to different worksheets in the workbook to view the analysis. 
+
+
 ## Contribution
 
 I welcome your contributions.
@@ -67,9 +75,3 @@ I welcome your contributions.
 ## Licence
 
 Refer to the Licence File for further details.
-![image](https://github.com/user-attachments/assets/994b09f0-d14e-42b4-a0f8-98bbca35815e)
-
-
-## Usage
-
-Navigate to WorkBook Folder in this repository and download the Superstore.xlsx workbook. Open it in MS Excel or any other compatible spreadsheet. Navigate to different worksheets in the workbook to view the analysis. 
